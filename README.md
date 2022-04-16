@@ -4,7 +4,7 @@
 [![HitCount](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OsharaShaveen/MafiaBot)
 
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
